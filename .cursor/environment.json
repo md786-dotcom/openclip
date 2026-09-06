@@ -1,0 +1,4 @@
+{
+  "name": "OpenClip (Linux tooling)",
+  "install": "bash .cursor/install.sh"
+}
